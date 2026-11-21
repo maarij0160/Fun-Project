@@ -7,7 +7,7 @@ Assume the vehicle has a maximum range of 500 miles so multiple fuel ups might n
 
 Also return the total money spent on fuel assuming the vehicle achieves 10 miles per gallon
 
-Use the attached file below for a list of fuel prices 
+Check fuel-prices file for fuel prices
 
 Find and use a free API for the map and routing
 
